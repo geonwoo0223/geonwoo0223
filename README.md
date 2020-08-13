@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### About Me
+-Bolg: [My Github Blog](https://geonwoo0223.github.io)
+
+---
+[![geonwoo's github stats](https://github-readme-stats.vercel.app/api?username=geonwoo0223)](https://github.com/geonwoo0223/github-readme-stats)
+
+
 <!--
 **geonwoo0223/geonwoo0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
